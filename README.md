@@ -23,7 +23,7 @@ C Programming, Linux, UDP Socket Programming, GCC Compiler, Linux System Calls, 
 - Handling file reading, writing, acknowledgements, and retransmission during file transfer.
 
 ## Project Structure
-```text
+
 TFTP-File-Transfer/
 ├── main.c
 ├── client.c
@@ -31,7 +31,6 @@ TFTP-File-Transfer/
 ├── mode.c
 ├── TFTP.h
 └── README.md
-```
 
 ## Compilation and Execution
 
